@@ -35,7 +35,7 @@
 </div>
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&text=📊%20GitHub%20Stats&fontSize=28&fontColor=ffffff&color=0:141E30,100:243B55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&text=📊%20GitHub%20Stats:&fontSize=28&fontColor=ffffff&color=0:141E30,100:243B55"/>
 </p>
 
 ![](https://github-readme-stats.shion.dev/api?username=niswanth8888&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
