@@ -1,4 +1,10 @@
-## 👋 Hello, I'm Niswanth
+<h1 align="center">
+Hi 👋, I'm
+</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=600&lines=Niswanth"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Backend+Developer;Generative+AI+Enthusiast;Building+Real-World+AI+Solutions" />
@@ -11,6 +17,7 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Zwa2J6bTN0aWQwN3N4M3ZjaXU4MTRvN29na2R5ZnN3dGRwZXd1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="20"> **Exploring** Machine Learning, Generative AI, LLMs, RAG, AI Agents, Backend Development, and Data Analytics.
 
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV5MW5xdDJjN2R5bDFsZTRvN2x6aGJ1d3l3dXZsMGxwZWFsYmxoaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> **Continuously learning** and transforming innovative ideas into impactful software products.
+ 
 
 
 ## 🌐 Socials:
