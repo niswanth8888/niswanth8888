@@ -17,9 +17,9 @@
  
 
 
-<h3 align="left">
-  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/globe.svg" width="20" alt="Globe"/> Connect With Me
-</h3>
+<h2 align="left">
+🌐 Connect With Me<span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&duration=1000&pause=0&color=FFFFFF00&width=8&height=25&lines=%7C;%20"/></span>
+</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niswanth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niswanth8888@gmail.com) 
 
