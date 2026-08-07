@@ -17,7 +17,7 @@
  
 
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=42&text=🌐%20Connect%20With%20Me&fontSize=18&fontColor=ffffff&color=0:00E5FF,100:4F46E5&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=45&text=🌐%20Connect%20With%20Me&fontSize=18&fontColor=ffffff&color=gradient&customColorList=12,20"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niswanth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niswanth8888@gmail.com) 
 
