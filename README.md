@@ -13,6 +13,9 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Zwa2J6bTN0aWQwN3N4M3ZjaXU4MTRvN29na2R5ZnN3dGRwZXd1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="20"> **Exploring** Machine Learning, Generative AI, LLMs, RAG, AI Agents, Backend Development, and Data Analytics.
 
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV5MW5xdDJjN2R5bDFsZTRvN2x6aGJ1d3l3dXZsMGxwZWFsYmxoaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> **Continuously learning** and transforming innovative ideas into impactful software products.
+
+
+
  
  
 <p align="left">
