@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Backend+Developer;Building+Intelligent+Software;Transforming+Ideas+into+Impactful+Solutions"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Backend+Developer;Generative+AI+Enthusiast;Building+Real-World+AI+Solutions" />
-</p>
-
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc2c2NpN2VzbHJsbnI0eG5vb2kzM3A5dDVmbXB2d3p4Y3E0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="20"> **Passionate** about designing intelligent systems that automate real-world business processes.
 
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l2OWV1aGtwcWRoM3BkYWFteHpnMWR5dGJjMzR4bTQ3a2NjOGQ5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="20"> **Building** scalable backend applications, AI-powered solutions, and data-driven software.
