@@ -50,9 +50,9 @@
 [![](https://komarev.com/ghpvc/?username=niswanth8888&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<h2 align="center">
-🚀 Flagship Projects
-</h2>
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&text=🚀%20Flagship%20Projects&fontSize=28&fontColor=ffffff&color=0:00C6FF,100:0072FF"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=Turning+Ideas+into+Real+Products;Building+AI+Solutions;Creating+Industrial+Software;Solving+Real+Problems"/>
