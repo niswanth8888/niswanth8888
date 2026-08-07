@@ -25,8 +25,11 @@ AI & Machine Learning Engineering Student • Backend Developer • AI Enthusias
 ![](https://streak-stats.demolab.com/?user=niswanth8888&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=niswanth8888&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=niswanth8888&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niswanth8888&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&row=2" alt="GitHub Trophies"/>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
