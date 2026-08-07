@@ -1,5 +1,18 @@
-# 💫 About Me:
-Hi, I'm Niswanth, an AI & Machine Learning Engineering student passionate about building intelligent software, automation systems, and scalable AI applications. I enjoy solving real-world problems through machine learning, backend development, data analytics, and software engineering while continuously learning modern technologies.
+<h2 align="center">👋 Hello, I'm Niswanth</h2>
+
+<p align="center">
+AI & Machine Learning Engineering Student • Backend Developer • AI Enthusiast
+</p>
+
+---
+
+💡 Passionate about designing intelligent systems that automate real-world business processes.
+
+🚀 I enjoy building scalable backend applications, AI-powered solutions, and data-driven software.
+
+🤖 My interests include Machine Learning, Generative AI, LLMs, RAG, AI Agents, Backend Development, and Data Analytics.
+
+🌱 I continuously explore new technologies and strive to transform innovative ideas into impactful software products.
 
 
 ## 🌐 Socials:
