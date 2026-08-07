@@ -34,7 +34,9 @@
 
 </div>
 
-# 📊 GitHub Stats:
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&text=📊%20GitHub%20Stats&fontSize=28&fontColor=ffffff&color=0:141E30,100:243B55"/>
+</p>
 ![](https://github-readme-stats.shion.dev/api?username=niswanth8888&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=niswanth8888&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=niswanth8888&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
