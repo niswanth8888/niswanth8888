@@ -15,16 +15,6 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV5MW5xdDJjN2R5bDFsZTRvN2x6aGJ1d3l3dXZsMGxwZWFsYmxoaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> **Continuously learning** and transforming innovative ideas into impactful software products.
  
  
-
-
-<p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=🌐%20Connect%20With%20Me&fontSize=25&fontColor=ffffff&color=0:00E5FF,100:4F46E5"/>
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niswanth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niswanth8888@gmail.com) 
-
-
-
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&text=🛠️%20Tech%20Stack&fontSize=28&fontColor=ffffff&color=0:F7971E,100:FF512F"/>
 </p>
