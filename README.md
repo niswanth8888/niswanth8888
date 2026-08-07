@@ -46,3 +46,46 @@
 [![](https://komarev.com/ghpvc/?username=niswanth8888&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=🚀+Featured+Projects"/>
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Industrial-AI-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open-Source-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Innovation-8B5CF6?style=for-the-badge"/>
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍃 TeaDesk
+Industrial tea manufacturing management platform built for digital factory operations.
+
+</td>
+
+<td width="50%">
+
+### 🧠 ARC APEX
+Advanced ARC AGI solver with intelligent diagnostics and optimization.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧬 BioSync
+Automated biometric attendance system with analytics and reporting.
+
+</td>
+
+<td width="50%">
+
+### ⚖️ CITADREX
+AI-powered legal citation retrieval using semantic search.
+
+</td>
+</tr>
+</table>
