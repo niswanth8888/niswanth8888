@@ -17,9 +17,9 @@
  
 
 
-<h2 align="left">
-🌐 Connect With Me<span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&duration=1000&pause=0&color=FFFFFF00&width=8&height=25&lines=%7C;%20"/></span>
-</h2>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2500&pause=999999&color=00E5FF&center=true&vCenter=true&width=320&height=40&lines=🌐+Connect+With+Me"/>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niswanth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niswanth8888@gmail.com) 
 
