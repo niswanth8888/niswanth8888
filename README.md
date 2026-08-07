@@ -4,13 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Backend+Developer;Generative+AI+Enthusiast;Building+Real-World+AI+Solutions" />
 </p>
 
-💡 Designing intelligent systems that automate real-world business processes.
 
-🚀 Building scalable backend applications, AI-powered solutions, and data-driven software.
+💡 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc2c2NpN2VzbHJsbnI0eG5vb2kzM3A5dDVmbXB2d3p4Y3E0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="20"> **Passionate** about designing intelligent systems that automate real-world business processes.
 
-🤖 Exploring **Machine Learning • Generative AI • LLMs • RAG • AI Agents • Backend Development • Data Analytics**
+🚀 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l2OWV1aGtwcWRoM3BkYWFteHpnMWR5dGJjMzR4bTQ3a2NjOGQ5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="20"> **Building** scalable backend applications, AI-powered solutions, and data-driven software.
 
-🌱 Continuously learning, innovating, and transforming ideas into impactful software products.
+🤖 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Zwa2J6bTN0aWQwN3N4M3ZjaXU4MTRvN29na2R5ZnN3dGRwZXd1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="20"> **Exploring** Machine Learning, Generative AI, LLMs, RAG, AI Agents, Backend Development, and Data Analytics.
+
+🌱 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV5MW5xdDJjN2R5bDFsZTRvN2x6aGJ1d3l3dXZsMGxwZWFsYmxoaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> **Continuously learning** and transforming innovative ideas into impactful software products.
 
 
 ## 🌐 Socials:
