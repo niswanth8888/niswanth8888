@@ -47,45 +47,52 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=🚀+Featured+Projects"/>
+🚀 Flagship Projects
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Industrial-AI-00E5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open-Source-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Innovation-8B5CF6?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=Turning+Ideas+into+Real+Products;Building+AI+Solutions;Creating+Industrial+Software;Solving+Real+Problems"/>
 </p>
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🍃 TeaDesk
-Industrial tea manufacturing management platform built for digital factory operations.
+
+🏭 Industrial Tea Manufacturing Platform
 
 </td>
 
 <td width="50%">
 
 ### 🧠 ARC APEX
-Advanced ARC AGI solver with intelligent diagnostics and optimization.
+
+🤖 Advanced ARC AGI Solver
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🧬 BioSync
-Automated biometric attendance system with analytics and reporting.
+
+📊 Biometric Attendance Automation
 
 </td>
 
 <td width="50%">
 
 ### ⚖️ CITADREX
-AI-powered legal citation retrieval using semantic search.
+
+⚖️ AI Legal Citation Retrieval
 
 </td>
+
 </tr>
+
 </table>
