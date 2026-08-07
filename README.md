@@ -1,18 +1,16 @@
-<h2 align="center">👋 Hello, I'm Niswanth</h2>
+## 👋 Hello, I'm Niswanth
 
 <p align="center">
-AI & Machine Learning Engineering Student • Backend Developer • AI Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Backend+Developer;Generative+AI+Enthusiast;Building+Real-World+AI+Solutions" />
 </p>
 
----
+💡 Designing intelligent systems that automate real-world business processes.
 
-💡 Passionate about designing intelligent systems that automate real-world business processes.
+🚀 Building scalable backend applications, AI-powered solutions, and data-driven software.
 
-🚀 I enjoy building scalable backend applications, AI-powered solutions, and data-driven software.
+🤖 Exploring **Machine Learning • Generative AI • LLMs • RAG • AI Agents • Backend Development • Data Analytics**
 
-🤖 My interests include Machine Learning, Generative AI, LLMs, RAG, AI Agents, Backend Development, and Data Analytics.
-
-🌱 I continuously explore new technologies and strive to transform innovative ideas into impactful software products.
+🌱 Continuously learning, innovating, and transforming ideas into impactful software products.
 
 
 ## 🌐 Socials:
