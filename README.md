@@ -26,7 +26,9 @@
 
 <div align="center">
 
-## 🐍 Contribution Snake
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&text=🐍%20Contribution%20Snake&fontSize=28&fontColor=ffffff&color=0:11998E,100:38EF7D"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/niswanth8888/niswanth8888/output/github-snake-dark.svg"/>
 
