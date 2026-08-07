@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=🌐+Connect+With+Me"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=🌐%20Connect%20With%20Me&fontSize=30&fontColor=ffffff&color=0:00E5FF,100:4F46E5"/>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niswanth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niswanth8888@gmail.com) 
