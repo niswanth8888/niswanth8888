@@ -17,8 +17,8 @@
  
 
 
-<h3 align="center">
-<img src="https://media.tenor.com/DimzPZMypFcAAAAi/globe.gif" width="22"/> Connect With Me
+<h3 align="left">
+  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/globe.svg" width="20" alt="Globe"/> Connect With Me
 </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niswanth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niswanth8888@gmail.com) 
